@@ -10,7 +10,7 @@ I'm learning how to build understand and secure computer and operating systems. 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)](#)
-[![Scratch](https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)](#)
+[![Scratch](https://img.shields.io/badge/Scratch-FF8C1A.svg?style=for-the-badge&logo=scratch&logoColor=white)](#)
 
 ## My Tech Stack 🛠️
 
