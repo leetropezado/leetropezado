@@ -4,10 +4,12 @@ I'm a computer science student working toward a career in cybersecurity.
 
 I'm learning how to build understand and secure computer and operating systems. I enjoy experimenting with virtual machines, writing scripts, and building things that help me understand how technology works.
 
---- 
 ## Languages I Use 🎨
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+
 ## My Tech Stack 🛠️
 
 <!--
