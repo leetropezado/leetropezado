@@ -1,4 +1,4 @@
-## Hey, I'm Lee.
+## Hey, I'm Lee. ☕
 
 I'm a computer science student working toward a career in cybersecurity.
 
