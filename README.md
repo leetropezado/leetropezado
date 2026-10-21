@@ -15,9 +15,9 @@ I'm learning how to build understand and secure computer and operating systems. 
 ## My Tech Stack 🛠️
 
 [![VMware Workstation Pro](https://img.shields.io/badge/VMware%20Workstation%20Pro-607078.svg?style=for-the-badge&logo=vmware&logoColor=white)](#)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)](#)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTQgNmw3IDYtNyA2TTEzIDE4aDciLz48L3N2Zz4K)](#)
 
 <!--
 **leetropezado/leetropezado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
