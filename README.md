@@ -12,6 +12,8 @@ I'm learning how to build understand and secure computer and operating systems. 
 
 ## My Tech Stack 🛠️
 
+[![VMware Workstation Pro](https://img.shields.io/badge/VMware%20Workstation%20Pro-607078.svg?style=for-the-badge&logo=vmware&logoColor=white)](#)
+
 <!--
 **leetropezado/leetropezado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
