@@ -2,7 +2,7 @@
 
 I'm a computer science student working toward a career in cybersecurity.
 
-I'm learning how to build, understand, and secure computer and operating systems. I enjoy experimenting with virtual machines, writing scripts, and building things that help me understand how technology works.
+I'm learning how to build, understand, and secure computer and operating systems. I enjoy experimenting with virtual machines, writing scripts, and building things that help me understand how technology works. Most of my projects used to live only on my computer. Now I’m putting them here to document what I learn, from small scripts to bigger projects.
 
 ## Languages I Use 🎨
 
