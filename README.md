@@ -9,8 +9,6 @@ I'm learning how to build, understand, and secure computer and operating systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 [![Rust](https://img.shields.io/badge/Rust-EF5023.svg?style=for-the-badge&logo=rust&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)](#)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## My Tech Stack 🛠️
 
