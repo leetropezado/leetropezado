@@ -1,6 +1,6 @@
 ## Hey, I'm Lee. ☕
 
-I'm a computer science student working toward a career in cybersecurity.
+Computer science student pursuing cybersecurity.
 
 I'm learning how to build, understand, and secure computer and operating systems. I enjoy experimenting with virtual machines, writing scripts, and building things that help me understand how technology works. For years, my projects would only live on my computer. Now I’m putting them here to document what I learn, from small scripts to bigger projects.
 
