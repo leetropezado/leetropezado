@@ -1,5 +1,4 @@
 ## Hey, I'm Lee. ☕
-https://www.figma.com/file/oahuXOFAGsxWDxGJ9l2NT5?node-id=0:1&locale=en&type=design
 I'm a computer science student pursuing cybersecurity.
 
 I'm learning how to build, understand, and secure computer and operating systems. I enjoy experimenting with virtual machines, writing scripts, and building things that help me understand how technology works. For years, my projects would only live on my computer. Now I’m documenting what I learn. Experiments, small scripts, larger-scale work, passion projects, etc.
